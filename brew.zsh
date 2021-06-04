@@ -24,10 +24,13 @@ brew install vim
 # Programing Language
 # Python
 brew install python
+brew install pyenv
+brew install --cask anaconda
 
 # Docker
 brew install docker
 brew install --cask docker
+
 
 
 brew cleanup
